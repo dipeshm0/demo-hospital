@@ -1,0 +1,10 @@
+{
+  "description": "A premium hospital website template designed for healthcare providers to showcase services, enable appointment booking, and enhance patient trust and accessibility.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
